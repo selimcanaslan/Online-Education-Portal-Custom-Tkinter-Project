@@ -1,0 +1,40 @@
+{
+    "questions": [
+      "3^x = 5 ise x aşağıdakilerden hangisine eşittir?",
+      "Q2. Soyadin Nedir ?",
+      "Q3. Yas Kac ?",
+      "Q4. Nerelisin ?"
+    ],
+    "answers": [
+      "Selim Can",
+      "Aslan",
+      "25",
+      "Mersin"
+    ],
+    "options": [
+      ["Selim Can",
+        "3/2",
+        "log5(3)",
+        "log3(5)",
+        "5.Dereceden Kök 3"
+      ],
+      ["Kaplan",
+        "Aslan",
+        "Cita",
+        "Kurbaga",
+        "Kelebek"
+      ],
+      [15,
+        25,
+        35,
+        45,
+        55
+      ],
+      ["Adiyaman",
+        "Istanbul",
+        "Mersin",
+        "Fethiye",
+        "Mugla"
+      ]
+    ]
+  }
